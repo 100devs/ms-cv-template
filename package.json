@@ -1,0 +1,21 @@
+{
+  "name": "How Is The Interview Going",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "^8.1.0",
+    "async": "^3.2.0",
+    "cloudinary": "^1.26.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
